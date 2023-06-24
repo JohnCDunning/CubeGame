@@ -74,9 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.vcxproj
 *.filters
-CubeGame/Saved/Logs
-CubeGame/Saved/Config/CrashReportClient
-CubeGame/Intermediate/CachedAssetRegistry.bin
-CubeGame/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini
-CubeGame/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-CubeGame/Saved/Config/WindowsEditor/Engine.ini
+
