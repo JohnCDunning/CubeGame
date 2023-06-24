@@ -1,0 +1,15 @@
+{
+	"SourceFiles": [
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Source\\CubeGame\\CubeGame.Build.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Plugins\\Developer\\RiderLink\\Source\\RiderLC\\RiderLC.Build.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Source\\CubeGame.Target.cs",
+		"D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Source\\CubeGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

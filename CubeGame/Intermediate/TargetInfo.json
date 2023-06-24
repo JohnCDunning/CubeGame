@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CubeGame",
+			"Path": "D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Source\\CubeGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CubeGameEditor",
+			"Path": "D:\\Unity Projects\\GitProjects\\CubeGame\\CubeGame\\Source\\CubeGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
