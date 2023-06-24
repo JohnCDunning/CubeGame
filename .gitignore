@@ -75,3 +75,4 @@ DerivedDataCache/*
 *.vcxproj
 *.filters
 
+Plugins/Developer/RiderLink
